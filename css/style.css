@@ -16,3 +16,8 @@ h1 {
 h2 {
     color: rgb(88, 255, 21);
 }
+
+/*menggunakan fungsi RGBA*/
+h3 {
+    background: rgba(40, 23, 11, 0.7);
+}
