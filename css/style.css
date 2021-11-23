@@ -6,3 +6,8 @@ header {
 #header {
     color: white;
 }
+
+/*menggunakan kode hexadecimal*/
+h1 {
+    color: #008080;
+}
