@@ -11,3 +11,8 @@ header {
 h1 {
     color: #008080;
 }
+
+/*menggunakan fungsi RGB*/
+h2 {
+    color: rgb(88, 255, 21);
+}
